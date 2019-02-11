@@ -90,6 +90,15 @@ Operators are special symbols that represent computations like addition and mult
 ### Expressions
 An expression is a combination of values, variables, and operators.
 
+### Modulus operator
+    >>> quitient = 7 // 3
+    >>> print(quotient)
+    2
+    >>> remainder = 7 % 3 
+    >>> print(remainder)
+    1
+
+
 ### Asking the user for input
 An expression is a combination of values, variables, and operators.
 
