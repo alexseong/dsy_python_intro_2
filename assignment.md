@@ -52,12 +52,13 @@ Using atom text editor, open ./src/assignment_2.2.2.py and write your program.
             B
 
 
-3. Write a program to prompt the user for hours and rate per hour using input to compute gross pay. Pay should be the normal rate for hours up to 40 and time-and-a-half for the hourly rate for all hours worked above 40 hours. Put the logic to do the computation of time-and-a-half in a function called <b>computepay()</b> and use the function to do the computation. The function should return a value. Use 45 hours and a rate of 10.50 per hour to test the program (the pay should be 498.75). You should use <b>input</b> to read a string and <b>float()</b> to convert the string to a number. Do not worry about error checking the user input unless you want to - you can assume the user types numbers properly. Do not name your variable sum or use the sum() function.
+3. Write a program to prompt the user for English score and Math score using input to compute total score or average score. Give English score 1.5 times for scores above 80. Put the logic to do the computation of the scores in a function called <b>compute_total_average()</b> and use the function to do the computation. The function should return a value, total score or average score depending on the argument assigned to the parameter, 'stat'. Use 95 for English and 85 for Math to test the program . You should use <b>input</b> to read a string and <b>int()</b> to convert the string to a number. Do not name your variable sum or use the sum() function.
 And then submit it as above submit guide. 
 
 Using atom text editor, open ./src/assignment_2.3.py and write your program.
 <br>Compare your output with 'Desired Output'
 
     Desired Output: 
-            <b>498.75</b>
+            Total Score: 187.5
+            Average Score: 93.75
 

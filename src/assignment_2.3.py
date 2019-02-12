@@ -1,8 +1,21 @@
-# This first 6 lines are provided for you
+def compute_total_average(eng, mat, stat):
+    if stat == 'total':
+        #write your code here
+    elif stat == 'average':
+        #write your code here
+    else:
+        res = None
 
-def computepay(h,r):
-    return 42.37
+    return res
 
-hrs = input("Enter Hours:")
-p = computepay(10,20)
-print("Pay",p)
+english = input("Enter English score: ")
+english = int(english)
+
+# Write your code here
+math =
+math =
+
+total = compute_total_average(english, math, 'total')
+average = # Write your code here for average 
+
+# Write your code here to print out total and average
