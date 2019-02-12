@@ -265,7 +265,7 @@ Inside the function, the arguments are assigned to variables called parameters.
 
 ## [Exercises](./exercises_func.md)
 
-## [Glossary](./glossary.md)
+## [Glossary](./glossary_func.md)
 
 # [Day 3 Assignments](assignment.md)
 
