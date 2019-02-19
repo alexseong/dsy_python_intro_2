@@ -55,11 +55,11 @@ The random function is only one of many functions that handle random numbers. Th
     alex()
     karen()
 
-a) David Jacob karen alex karen
-b) David Jacob David
-c) Jacob David karen
-d) Jacob Alex Jacob
-e) David David David
+    a) David Jacob karen alex karen
+    b) David Jacob David
+    c) Jacob David karen
+    d) Jacob Alex Jacob
+    e) David David David
 
 <b>Exercise 6: Rewrite the weighted average computation(exercise 1 of Conditional Expression) by creating and using a function called compute_average which takes two parameters(eng and math).</b>
 
